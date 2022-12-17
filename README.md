@@ -1,6 +1,6 @@
 Das ist ein erster Test für eine Git page.
 
-# [Hauptüberschrift 1]
+# Hauptüberschrift 1
 
 ``coming soon``
 
@@ -14,7 +14,7 @@ Das ist ein erster Test für eine Git page.
 
 ``coming soon``
 
-# [Hauptüberschrift 2]
+# Hauptüberschrift 2
 
 ``coming soon``
 
