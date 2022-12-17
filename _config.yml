@@ -2,3 +2,5 @@ title: Thomas Riechert
 description: Testpage for Website
 show_downloads: false
 theme: jekyll-theme-slate
+url: triechert.github.io
+baseurl: /website/
